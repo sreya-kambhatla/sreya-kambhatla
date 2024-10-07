@@ -27,7 +27,7 @@ I'm passionate about turning data into actionable insights and building scalable
   <img width="1" />
   <img src="https://avatars.githubusercontent.com/u/288277?s=48&v=4" height="40" alt="scipy logo"  />
   <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://pandas.pydata.org//static/img/favicon_white.ico" height="40" alt="pandas logo"  />
   <img width="1" />
   <img src="https://github.com/tensorflow.png?size=40" height="40" alt="tensorflow logo"  />
   <img width="1" />
