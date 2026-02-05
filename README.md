@@ -43,22 +43,28 @@ MySQL • Oracle • DynamoDB • Google Cloud
 
 ### 💼 Professional Experience – Project Highlights
 
-### Real-Time Shipment Tracking Dashboard
-- Built using Python, SQL, and Streamlit
-- Enabled real-time logistics visibility
-- Reduced manual tracking effort for cross-functional teams
-- Designed KPI metrics for shipment and asset tracking
+**Asset Management & Operations Analytics**
 
-### Product & User Behavior Analytics
-- Built Power BI dashboards for product performance monitoring
-- Analyzed survey and A/B testing data using SQL + Python
-- Identified engagement patterns and optimization opportunities
-- Supported stakeholder decision-making with interactive reporting
+* Built a real-time shipment tracking dashboard using Python, SQL, and Streamlit, improving logistics visibility and reducing manual tracking effort
+* Analyzed asset lifecycle workflows to identify process bottlenecks and strengthen security and deployment compliance
+* Led inventory and consumables audits achieving **88.7%** reconciliation accuracy
+* Defined and monitored inventory KPIs with stakeholders to support stock optimization and waste reduction
 
-### Asset Lifecycle & Inventory Analytics
-- Analyzed asset lifecycle workflows and bottlenecks
-- Designed inventory KPIs and trend reports
-- Improved reconciliation and audit accuracy
+**Product & User Behavior Analytics**
+
+* Developed Power BI dashboards to monitor user behavior and product performance metrics
+* Analyzed A/B tests and survey data using SQL and Python to identify engagement drivers and optimization opportunities
+* Delivered stakeholder-focused, self-service reporting integrated with relational databases
+* Built churn and engagement prediction models to support targeted retention strategies
+* Project contribution lead to **96% client satisfaction** rating for the deployed product. 
+
+**Data Engineering & BI Support**
+
+* Gathered business and reporting requirements for BI and analytics initiatives
+* Supported ETL and data integration workflows across multi-source datasets
+* Designed KPI datasets and dashboards for operational and marketing analytics
+* Executed data cleansing and validation processes to improve reporting accuracy
+
 
 ## ⭐ Featured Projects
 
