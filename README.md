@@ -3,9 +3,9 @@
 
 <h3 align="left">✨ About Me</h3>
 
-<p style="font-size:16px;"> Data Analyst / Business Analyst with 2+ years of experience translating business problems into data-driven solutions across enterprise environments. I specialize in SQL, Python, Power BI, and Tableau to build dashboards, predictive models, and KPI-driven reporting systems.
+Data Analyst / Business Analyst with 2+ years of experience translating business problems into data-driven solutions across enterprise environments. I specialize in SQL, Python, Power BI, and Tableau to build dashboards, predictive models, and KPI-driven reporting systems.
 
-I’ve worked on real-time analytics, asset lifecycle analysis, A/B testing, and stakeholder-focused dashboards in logistics, product analytics, and operations domains. </p>
+I’ve worked on real-time analytics, asset lifecycle analysis, A/B testing, and stakeholder-focused dashboards in logistics, product analytics, and operations domains.
 
 ## 🔍 What I Focus On
 - KPI design and business performance tracking
