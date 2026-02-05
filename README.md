@@ -21,6 +21,7 @@ I’ve worked on real-time analytics, asset lifecycle analysis, A/B testing, and
 - Delivered churn and engagement prediction models using ML
 - Defined and tracked inventory and operational KPIs with business stakeholders
 
+---
 
 ## 🛠 Core Data & Business Analysis Stack
 
