@@ -66,7 +66,7 @@ MySQL • Oracle • DynamoDB • Google Cloud
 |----------|-------------|-------------|------|
 | 📊 Customer Behavior & Rating Prediction | End-to-end customer analysis and ML rating prediction using structured datasets and feature engineering | SQL, Python, ML — Lead Analyst | [Repo](https://github.com/sreya-kambhatla/Customer-Analysis-and-Rating-Prediction) |
 | 📦 Inventory KPI Dashboard | Business KPI tracking and asset lifecycle analytics dashboard | SQL, Power BI — Data Analyst | [Repo](https://github.com/yourname/repo2) |
-| 🚚 Shipment Tracking Dashboard | Real-time logistics tracking dashboard with automation | Python, SQL, Streamlit — Developer | [Repo](https://github.com/yourname/repo3](https://github.com/sreya-kambhatla/Shipment-Tracking-Dashboard) |
+| 🚚 Shipment Tracking Dashboard | Real-time logistics tracking dashboard with automation | Python, SQL, Streamlit — Developer | [Repo](https://github.com/sreya-kambhatla/Shipment-Tracking-Dashboard) |
 | 🧪 A/B Testing & User Analytics | Experiment analysis and engagement insights | Python, SQL — Analyst | [Repo](https://github.com/yourname/repo4) |
 
 
