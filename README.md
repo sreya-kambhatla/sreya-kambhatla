@@ -5,8 +5,23 @@
 
 
 
-I'm passionate about turning data into actionable insights and building scalable software solutions. As a data analyst and developer, I enjoy working with **Python**, **SQL**, and various data visualization tools like **Power BI** and **Tableau** to solve complex problems. You'll find projects here that reflect my journey in data analysis, software development, and beyond. 🚀<br>
-<br>I’m always learning and looking to collaborate on interesting projects that challenge my skills and make a difference. Feel free to explore, contribute, or reach out!
+Data Analyst / Business Analyst with 2+ years of experience translating business problems into data-driven solutions across enterprise environments. I specialize in SQL, Python, Power BI, and Tableau to build dashboards, predictive models, and KPI-driven reporting systems.
+
+I’ve worked on real-time analytics, asset lifecycle analysis, A/B testing, and stakeholder-focused dashboards in logistics, product analytics, and operations domains.
+
+## 🔍 What I Focus On
+- KPI design and business performance tracking
+- SQL + Python based analysis and automation
+- Power BI & Tableau dashboards for decision-makers
+- A/B testing and user behavior analysis
+- Data quality, validation, and governance
+- Requirements gathering and stakeholder reporting
+
+## 📊 Business Impact Highlights
+- Built real-time shipment tracking dashboards using Python + SQL + Streamlit
+- Developed Power BI dashboards enabling real-time product performance insights
+- Delivered churn and engagement prediction models using ML
+- Defined and tracked inventory and operational KPIs with business stakeholders
 
 
 <h2> 🛠️ Languages and Tools </h2>
