@@ -1,13 +1,13 @@
 <h2> Hello, Welcome to my Github Page! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="images/5.gif" width="400">
 
-<h3 align="left">✨ About Me</h3>
+### ✨ About Me
 
 Data Analyst / Business Analyst with 2+ years of experience translating business problems into data-driven solutions across enterprise environments. I specialize in SQL, Python, Power BI, and Tableau to build dashboards, predictive models, and KPI-driven reporting systems.
 
 I’ve worked on real-time analytics, asset lifecycle analysis, A/B testing, and stakeholder-focused dashboards in logistics, product analytics, and operations domains.
 
-<h3 align="left">🔍 What I Focus On</h3>
+### 🔍 What I Focus On
 - KPI design and business performance tracking
 - SQL + Python based analysis and automation
 - Power BI & Tableau dashboards for decision-makers
@@ -15,7 +15,7 @@ I’ve worked on real-time analytics, asset lifecycle analysis, A/B testing, and
 - Data quality, validation, and governance
 - Requirements gathering and stakeholder reporting
 
-## 📊 Business Impact Highlights
+### 📊 Business Impact Highlights
 - Built real-time shipment tracking dashboards using Python + SQL + Streamlit
 - Developed Power BI dashboards enabling real-time product performance insights
 - Delivered churn and engagement prediction models using ML
