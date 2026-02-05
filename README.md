@@ -27,16 +27,16 @@ I’ve worked on real-time analytics, asset lifecycle analysis, A/B testing, and
 
 ## 🛠 Core Data & Business Analysis Stack
 
-**Data Analysis & BI**
+**Data Analysis & BI**<br>
 SQL • Python (Pandas, NumPy, scikit-learn) • Excel • Power BI • Tableau
 
-**Analytics & Modeling**
+**Analytics & Modeling**<br>
 Regression • Classification • Clustering • A/B Testing • Churn Modeling • KPI Design
 
-**Data Engineering & Automation**
+**Data Engineering & Automation**<br>
 ETL Pipelines • Streamlit • Jupyter • PowerShell • Git • GitHub
 
-**Databases & Cloud**
+**Databases & Cloud**<br>
 MySQL • Oracle • DynamoDB • Google Cloud
 
 
