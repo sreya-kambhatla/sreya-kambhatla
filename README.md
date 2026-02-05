@@ -64,10 +64,12 @@ MySQL • Oracle • DynamoDB • Google Cloud
 
 | Project | Description | Tech & Role | Link |
 |----------|-------------|-------------|------|
-| 📊 Customer Behavior & Rating Prediction | End-to-end customer analysis and ML rating prediction using structured datasets and feature engineering | SQL, Python, ML — Lead Analyst | [Repo](https://github.com/sreya-kambhatla/Customer-Analysis-and-Rating-Prediction)| 
-| 🔐 Keylogger Detection Toolkit | System-level keylogger detection using process, clipboard, and file behavior monitoring with ML support | Python, Cybersecurity, ML — Developer | [Repo](https://github.com/sreya-kambhatla/Keylogger-Detection)
-| 🚚 Shipment Tracking Dashboard | Real-time logistics tracking dashboard with automation | Python, SQL, Streamlit — Developer | [Repo](https://github.com/sreya-kambhatla/Shipment-Tracking-Dashboard) |
-| 🧪 A/B Testing & User Analytics | Experiment analysis and engagement insights | Python, SQL — Analyst | [Repo](https://github.com/yourname/repo4) |
+| 📊 Customer Behavior & Rating Prediction | Built an end-to-end ML pipeline to analyze customer patterns and forecast ratings using structured data and engineered features                     | **Python, SQL, Scikit-learn, Feature Engineering, Predictive Modeling — Project Lead & ML Analyst** |  [Repo](https://github.com/sreya-kambhatla/Customer-Analysis-and-Rating-Prediction) |
+| 🔐 Keylogger Detection Toolkit           | Developed a system-level detection framework that flags keylogger activity through process, clipboard, and file behavior signals with ML assistance | **Python, TF-IDF, Random Forest, Gradient Boosting, Behavioral Monitoring — Security ML Developer** |  [Repo](https://github.com/sreya-kambhatla/Keylogger-Detection) |
+| 🚚 Shipment Tracking Dashboard           | Created a real-time logistics monitoring dashboard with automated data flows and live tracking visuals                                              | **Python, SQL, Streamlit, Data Pipelines, Automation — Full-Stack Data App Developer**              |  [Repo](https://github.com/sreya-kambhatla/Shipment-Tracking-Dashboard) |
+| 🎓 University Assistant Alexa Skill      | Designed and deployed a serverless voice assistant skill to answer university queries using intent-based NLP and cloud functions                    | **Python, AWS Lambda, Alexa Skills Kit, Intent Handling — Voice App & Cloud Developer**             |  [Repo](https://github.com/sreya-kambhatla/University-Assistant-Alexa-Skill) |
+| 🅿️ Smart Parking Reservation System     | Engineered a smart parking booking platform with slot management, reservation logic, and user interaction workflows                                 | **Python, Database Design, Backend Logic, Reservation Algorithms — Systems & Backend Developer**     [Repo](https://github.com/sreya-kambhatla/Smart-Parking-Reservation-System) |
+
 
 
 <h2>😊 Connect with me here!</h2>
