@@ -7,7 +7,7 @@ Data Analyst / Business Analyst with 2+ years of experience translating business
 
 I’ve worked on real-time analytics, asset lifecycle analysis, A/B testing, and stakeholder-focused dashboards in logistics, product analytics, and operations domains.
 
-## 🔍 What I Focus On
+<h3 align="left">🔍 What I Focus On</h3>
 - KPI design and business performance tracking
 - SQL + Python based analysis and automation
 - Power BI & Tableau dashboards for decision-makers
