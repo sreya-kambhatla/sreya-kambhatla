@@ -64,7 +64,7 @@ MySQL • Oracle • DynamoDB • Google Cloud
 
 | Project | Description | Tech & Role | Link |
 |----------|-------------|-------------|------|
-| 📊 Customer Behavior & Rating Prediction | End-to-end customer analysis and ML rating prediction using structured datasets and feature engineering | SQL, Python, ML — Lead Analyst | [Repo](https://github.com/sreya-kambhatla/Customer-Analysis-and-Rating-Prediction) 
+| 📊 Customer Behavior & Rating Prediction | End-to-end customer analysis and ML rating prediction using structured datasets and feature engineering | SQL, Python, ML — Lead Analyst | [Repo](https://github.com/sreya-kambhatla/Customer-Analysis-and-Rating-Prediction)| 
 | 🔐 Keylogger Detection Toolkit | System-level keylogger detection using process, clipboard, and file behavior monitoring with ML support | Python, Cybersecurity, ML — Developer | [Repo](https://github.com/sreya-kambhatla/Keylogger-Detection)
 | 🚚 Shipment Tracking Dashboard | Real-time logistics tracking dashboard with automation | Python, SQL, Streamlit — Developer | [Repo](https://github.com/sreya-kambhatla/Shipment-Tracking-Dashboard) |
 | 🧪 A/B Testing & User Analytics | Experiment analysis and engagement insights | Python, SQL — Analyst | [Repo](https://github.com/yourname/repo4) |
