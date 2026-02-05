@@ -3,8 +3,6 @@
 
 <h3 align="left">✨ About Me</h3>
 
-
-
 Data Analyst / Business Analyst with 2+ years of experience translating business problems into data-driven solutions across enterprise environments. I specialize in SQL, Python, Power BI, and Tableau to build dashboards, predictive models, and KPI-driven reporting systems.
 
 I’ve worked on real-time analytics, asset lifecycle analysis, A/B testing, and stakeholder-focused dashboards in logistics, product analytics, and operations domains.
@@ -24,76 +22,20 @@ I’ve worked on real-time analytics, asset lifecycle analysis, A/B testing, and
 - Defined and tracked inventory and operational KPIs with business stakeholders
 
 
-<h2> 🛠️ Languages and Tools </h2>
+## 🛠 Core Data & Business Analysis Stack
 
-- Programming Languages:
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/>
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/>
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"/>
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
-  
-- Machine Learning:
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="1" />
-  <img src="https://avatars.githubusercontent.com/u/288277?s=48&v=4" height="40" alt="scipy logo"  />
-  <img width="1" />
-  <img src="https://pandas.pydata.org//static/img/favicon_white.ico" height="40" alt="pandas logo"  />
-  <img width="1" />
-  <img src="https://github.com/tensorflow.png?size=40" height="40" alt="tensorflow logo"  />
-  <img width="1" />
-  <img src="https://github.com/scikit-learn.png?size=40" height="40" alt="scikit-learn logo"  />
-  <img src = "https://cdn-icons-png.flaticon.com/512/9831/9831334.png" height = "40" alt = "nlp logo" />
-  
-  
-- Visualizations:
-  <img width="1" />
-  <img src = "https://github.com/tableau.png?size=40" height = "40" alt = "tableau logo" />
-  <img width="1" />
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height = "40" alt = "power bi logo" />
-  <img width="1" />
-  <img src="https://github.com/user-attachments/assets/33096948-a3c8-4c12-b65c-95d99f473d39" height="40" alt="Seaborn Logo" />
-  <img width="1" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" height="40" alt="Matplotlib Logo" />
-  <img width="1" />
-  <img src = "https://github.com/plotly.png?size=40" height = "40" alt = "plotly logo" />
+**Data Analysis & BI**
+SQL • Python (Pandas, NumPy, scikit-learn) • Excel • Power BI • Tableau
 
-- Databases:
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo"  />
-  <img width="1" />
-  <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" height="40" alt="oracle logo"  />
-  
-- Cloud Architectures:
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+**Analytics & Modeling**
+Regression • Classification • Clustering • A/B Testing • Churn Modeling • KPI Design
 
-- Operating Systems:
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+**Data Engineering & Automation**
+ETL Pipelines • Streamlit • Jupyter • PowerShell • Git • GitHub
 
-- Other Softwares:
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="1" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="1" />
-  <img src = "https://www.logo.wine/a/logo/Office_Online/Office_Online-Logo.wine.svg" height = "40" alt = "office365 logo" />
-  <img width="1" />
-  <img src = "https://roiamplified.com/wp-content/uploads/2018/09/gsuite-logo.png" height = "40" alt = "gsuite logo" />
-  
+**Databases & Cloud**
+MySQL • Oracle • DynamoDB • Google Cloud
+
 
 <h2>😊 Connect with me here!</h2>
 - 📧 Email: sreyakambhatla@outlook.com</br>
