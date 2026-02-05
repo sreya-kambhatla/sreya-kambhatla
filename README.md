@@ -25,7 +25,7 @@ I’ve worked on real-time analytics, asset lifecycle analysis, A/B testing, and
 
 ---
 
-## 🛠 Core Data & Business Analysis Stack
+### 🛠 Core Data & Business Analysis Stack
 
 **Data Analysis & BI**<br>
 SQL • Python (Pandas, NumPy, scikit-learn) • Excel • Power BI • Tableau
@@ -38,6 +38,28 @@ ETL Pipelines • Streamlit • Jupyter • PowerShell • Git • GitHub
 
 **Databases & Cloud**<br>
 MySQL • Oracle • DynamoDB • Google Cloud
+
+---
+
+### 💼 Professional Experience – Project Highlights
+
+### Real-Time Shipment Tracking Dashboard
+- Built using Python, SQL, and Streamlit
+- Enabled real-time logistics visibility
+- Reduced manual tracking effort for cross-functional teams
+- Designed KPI metrics for shipment and asset tracking
+
+### Product & User Behavior Analytics
+- Built Power BI dashboards for product performance monitoring
+- Analyzed survey and A/B testing data using SQL + Python
+- Identified engagement patterns and optimization opportunities
+- Supported stakeholder decision-making with interactive reporting
+
+### Asset Lifecycle & Inventory Analytics
+- Analyzed asset lifecycle workflows and bottlenecks
+- Designed inventory KPIs and trend reports
+- Improved reconciliation and audit accuracy
+
 
 
 <h2>😊 Connect with me here!</h2>
