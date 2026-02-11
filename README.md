@@ -1,11 +1,13 @@
 <h2> Hello, Welcome to my Github Page!</h2>
 
 ### ✨ About Me
+---
+## Sreya Kambhatla
+### Data Analyst @ Nike | SQL • Python • Power BI • Tableau
 
-Data Analyst / Business Analyst with 2+ years of experience translating business problems into data-driven solutions across enterprise environments. I specialize in SQL, Python, Power BI, and Tableau to build dashboards, predictive models, and KPI-driven reporting systems.
+Transforming business problems into data-driven solutions through analytics, automation, and visualization.
 
-I’ve worked on real-time analytics, asset lifecycle analysis, A/B testing, and stakeholder-focused dashboards in logistics, product analytics, and operations domains.
-
+📍 Rockville, MD | 📧 sreyakambhatla@outlook.com | 🔗 [LinkedIn]((https://www.linkedin.com/in/sreya-kambhatla/)) | 🌐 [Portfolio](link)
 ---
 
 ### 🔍 What I Focus On
@@ -75,8 +77,11 @@ MySQL • Oracle • DynamoDB • Google Cloud
 | 🎓 University Assistant Alexa Skill      | Designed and deployed a serverless voice assistant skill to answer university queries using intent-based NLP and cloud functions                    | **Python, AWS Lambda, Alexa Skills Kit, Intent Handling — Voice App & Cloud Developer**             |  [Repo](https://github.com/sreya-kambhatla/University-Assistant-Alexa-Skill) |
 | 🅿️ Smart Parking Reservation System     | Engineered a smart parking booking platform with slot management, reservation logic, and user interaction workflows                                 | **Python, Database Design, Backend Logic, Reservation Algorithms — Systems & Backend Developer**  |   [Repo](https://github.com/sreya-kambhatla/Smart-Parking-Reservation-System) |
 
-## 📈 GitHub Stats
-![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreya-kambhatla&show_icons=true&theme=radical)
+## 📈 GitHub Activity
+
+[Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreya-kambhatla&show_icons=true&theme=tokyonight&hide_border=true)
+
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreya-kambhatla&layout=compact&theme=tokyonight&hide_border=true)
 
 <h2>😊 Connect with me here!</h2>
 📧 Email: sreyakambhatla@outlook.com</br>
