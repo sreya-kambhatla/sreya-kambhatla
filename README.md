@@ -75,7 +75,8 @@ MySQL • Oracle • DynamoDB • Google Cloud
 | 🎓 University Assistant Alexa Skill      | Designed and deployed a serverless voice assistant skill to answer university queries using intent-based NLP and cloud functions                    | **Python, AWS Lambda, Alexa Skills Kit, Intent Handling — Voice App & Cloud Developer**             |  [Repo](https://github.com/sreya-kambhatla/University-Assistant-Alexa-Skill) |
 | 🅿️ Smart Parking Reservation System     | Engineered a smart parking booking platform with slot management, reservation logic, and user interaction workflows                                 | **Python, Database Design, Backend Logic, Reservation Algorithms — Systems & Backend Developer**  |   [Repo](https://github.com/sreya-kambhatla/Smart-Parking-Reservation-System) |
 
-
+## 📈 GitHub Stats
+![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreya-kambhatla&show_icons=true&theme=radical)
 
 <h2>😊 Connect with me here!</h2>
 📧 Email: sreyakambhatla@outlook.com</br>
