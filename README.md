@@ -66,6 +66,10 @@ MySQL • Oracle • DynamoDB • Google Cloud
 * Designed KPI datasets and dashboards for operational and marketing analytics
 * Executed data cleansing and validation processes to improve reporting accuracy
 
+### 🎯 Currently
+- 📊 Building real-time analytics dashboards at Nike WHQ
+- 📚 Learning advanced Power BI DAX and M Query
+- 🔍 Exploring predictive modeling techniques
 
 ## ⭐ Featured Projects
 
@@ -83,6 +87,10 @@ MySQL • Oracle • DynamoDB • Google Cloud
 
 [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreya-kambhatla&layout=compact&theme=tokyonight&hide_border=true)
 
-<h2>😊 Connect with me here!</h2>
-📧 Email: sreyakambhatla@outlook.com</br>
-🔗 LinkedIn: https://www.linkedin.com/in/sreya-kambhatla/
+### 💬 Let's Connect
+- 📧 **Email:** sreyakambhatla@outlook.com
+- 💼 **LinkedIn:** [linkedin.com/in/sreya-kambhatla](link)
+- 🌐 **Portfolio:** [Coming Soon!]
+- 📅 **Schedule a Chat:** [Calendar Link]
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sreya-kambhatla.sreya-kambhatla)
