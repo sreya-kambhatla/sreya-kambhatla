@@ -7,7 +7,7 @@
 
 Transforming business problems into data-driven solutions through analytics, automation, and visualization.
 
-<h3>📍 Rockville, MD | 📧 sreyakambhatla@outlook.com | 🔗 [LinkedIn]((https://www.linkedin.com/in/sreya-kambhatla/)) | 🌐 [Portfolio](link) </h3>
+📍 Rockville, MD | 📧 sreyakambhatla@outlook.com | 🔗 [LinkedIn]((https://www.linkedin.com/in/sreya-kambhatla/)) | 🌐 [Portfolio](link) 
 ---
 
 ### 🔍 What I Focus On
