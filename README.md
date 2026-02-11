@@ -1,11 +1,10 @@
 <h2> Hello, Welcome to my Github Page!</h2>
 
-### ✨ About Me                                                                                                                                           👁️ ![](https://visitor-badge.laobi.icu/badge?page_id=sreya-kambhatla.sreya-kambhatla)
----
-## Sreya Kambhatla
-### Data Analyst @ Nike | SQL • Python • Power BI • Tableau
+### ✨ About Me <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sreya-kambhatla.sreya-kambhatla" alt="visitors"/>
 
-Transforming business problems into data-driven solutions through analytics, automation, and visualization.
+Data Analyst / Business Analyst with 2+ years of experience translating business problems into data-driven solutions across enterprise environments. I specialize in SQL, Python, Power BI, and Tableau to build dashboards, predictive models, and KPI-driven reporting systems.
+
+I've worked on real-time analytics, asset lifecycle analysis, A/B testing, and stakeholder-focused dashboards in logistics, product analytics, and operations domains.
 
 📍 Rockville, MD | 📧 sreyakambhatla@outlook.com | 🔗 [LinkedIn](https://www.linkedin.com/in/sreya-kambhatla/) | 🌐 [Portfolio](link) 
 ---
