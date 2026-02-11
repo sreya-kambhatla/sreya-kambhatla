@@ -1,13 +1,13 @@
 <h2> Hello, Welcome to my Github Page!</h2>
 
-### ✨ About Me
+### ✨ About Me                   👁️ ![](https://visitor-badge.laobi.icu/badge?page_id=sreya-kambhatla.sreya-kambhatla)
 ---
 ## Sreya Kambhatla
 ### Data Analyst @ Nike | SQL • Python • Power BI • Tableau
 
 Transforming business problems into data-driven solutions through analytics, automation, and visualization.
 
-📍 Rockville, MD | 📧 sreyakambhatla@outlook.com | 🔗 [LinkedIn]((https://www.linkedin.com/in/sreya-kambhatla/)) | 🌐 [Portfolio](link)
+###📍 Rockville, MD | 📧 sreyakambhatla@outlook.com | 🔗 [LinkedIn]((https://www.linkedin.com/in/sreya-kambhatla/)) | 🌐 [Portfolio](link)
 ---
 
 ### 🔍 What I Focus On
@@ -66,10 +66,13 @@ MySQL • Oracle • DynamoDB • Google Cloud
 * Designed KPI datasets and dashboards for operational and marketing analytics
 * Executed data cleansing and validation processes to improve reporting accuracy
 
+---
 ### 🎯 Currently
 - 📊 Building real-time analytics dashboards at Nike WHQ
 - 📚 Learning advanced Power BI DAX and M Query
 - 🔍 Exploring predictive modeling techniques
+
+---
 
 ## ⭐ Featured Projects
 
@@ -83,9 +86,9 @@ MySQL • Oracle • DynamoDB • Google Cloud
 
 ## 📈 GitHub Activity
 
-[Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreya-kambhatla&show_icons=true&theme=tokyonight&hide_border=true)
+![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreya-kambhatla&show_icons=true&theme=tokyonight&hide_border=true)
 
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreya-kambhatla&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreya-kambhatla&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 💬 Let's Connect
 - 📧 **Email:** sreyakambhatla@outlook.com
@@ -93,4 +96,4 @@ MySQL • Oracle • DynamoDB • Google Cloud
 - 🌐 **Portfolio:** [Coming Soon!]
 - 📅 **Schedule a Chat:** [Calendar Link]
 
-![](https://visitor-badge.laobi.icu/badge?page_id=sreya-kambhatla.sreya-kambhatla)
+
