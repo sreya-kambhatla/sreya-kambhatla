@@ -1,13 +1,13 @@
 <h2> Hello, Welcome to my Github Page!</h2>
 
-### ✨ About Me                   👁️ ![](https://visitor-badge.laobi.icu/badge?page_id=sreya-kambhatla.sreya-kambhatla)
+### ✨ About Me                                                                                                                                           👁️ ![](https://visitor-badge.laobi.icu/badge?page_id=sreya-kambhatla.sreya-kambhatla)
 ---
 ## Sreya Kambhatla
 ### Data Analyst @ Nike | SQL • Python • Power BI • Tableau
 
 Transforming business problems into data-driven solutions through analytics, automation, and visualization.
 
-📍 Rockville, MD | 📧 sreyakambhatla@outlook.com | 🔗 [LinkedIn]((https://www.linkedin.com/in/sreya-kambhatla/)) | 🌐 [Portfolio](link) 
+📍 Rockville, MD | 📧 sreyakambhatla@outlook.com | 🔗 [LinkedIn](https://www.linkedin.com/in/sreya-kambhatla/) | 🌐 [Portfolio](link) 
 ---
 
 ### 🔍 What I Focus On
