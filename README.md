@@ -98,9 +98,6 @@ MySQL • Oracle • DynamoDB • Google Cloud
 - 🌐 **Portfolio:** [Coming Soon!]
 - 📅 **Schedule a Chat:** [Zoom Meeting](https://calendly.com/sreyakambhatla/30min)
 
-## Schedule a Chat
-
-I’d love to connect with you! You can schedule a chat with me by clicking the link below:
 
 
 
