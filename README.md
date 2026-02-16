@@ -85,8 +85,10 @@ MySQL • Oracle • DynamoDB • Google Cloud
 
 ## 📈 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sreya-kambhatla&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/sreya-kambhatla)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sreya-kambhatla&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=0)](https://github.com/sreya-kambhatla)
+---
 [![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreya-kambhatla&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/sreya-kambhatla)
+---
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreya-kambhatla&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/sreya-kambhatla)
 
