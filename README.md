@@ -96,6 +96,13 @@ MySQL • Oracle • DynamoDB • Google Cloud
 - 📧 **Email:** sreyakambhatla@outlook.com
 - 💼 **LinkedIn:** [linkedin.com/in/sreya-kambhatla](link)
 - 🌐 **Portfolio:** [Coming Soon!]
-- 📅 **Schedule a Chat:** [Calendar Link]
+- 📅 **Schedule a Chat:** [Schedule a Chat](https://calendly.com/sreyakambhatla/30min)
+
+## Schedule a Chat
+
+I’d love to connect with you! You can schedule a chat with me by clicking the link below:
+
+
+
 
 
