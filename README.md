@@ -8,6 +8,7 @@ I've worked on real-time analytics, asset lifecycle analysis, A/B testing, and s
 
 ### 📍 Rockville, MD | 📧 sreyakambhatla@outlook.com | 🔗 [LinkedIn](https://www.linkedin.com/in/sreya-kambhatla/) | 🌐 [Portfolio](https://your-portfolio-link.com)
 
+---
 
 ### 🔍 What I Focus On
 - KPI design and business performance tracking
