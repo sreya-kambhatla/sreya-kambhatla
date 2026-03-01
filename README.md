@@ -6,7 +6,7 @@ Data Analyst / Business Analyst with 2+ years of experience translating business
 
 I've worked on real-time analytics, asset lifecycle analysis, A/B testing, and stakeholder-focused dashboards in logistics, product analytics, and operations domains.
 
-<h2>📍 Rockville, MD | 📧 sreyakambhatla@outlook.com | 🔗 [LinkedIn](https://www.linkedin.com/in/sreya-kambhatla/) | 🌐 [Portfolio](link) </h2>
+## 📍 Rockville, MD | 📧 sreyakambhatla@outlook.com | 🔗 [LinkedIn](https://www.linkedin.com/in/sreya-kambhatla/) | 🌐 [Portfolio](https://your-portfolio-link.com)
 ---
 
 ### 🔍 What I Focus On
