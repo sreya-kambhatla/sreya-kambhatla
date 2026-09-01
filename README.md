@@ -87,7 +87,7 @@ MySQL • Oracle • DynamoDB • Google Cloud
 ### 💬 Let's Connect
 - 📧 **Email:** sreyakambhatla@outlook.com
 - 💼 **LinkedIn:** [linkedin.com/in/sreya-kambhatla](link)
-- 🌐 **Portfolio:** [https://sreya-kambhatla.github.io/Portfolio/]
+- 🌐 **Portfolio:** https://sreya-kambhatla.github.io/Portfolio/
 - 📅 **Schedule a Chat:** [Zoom Meeting](https://calendly.com/sreyakambhatla/30min)
 
 
